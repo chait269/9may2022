@@ -88,6 +88,7 @@ public void Browserpoen(String browsername)
 	{
 		driver.quit();
 		System.out.println("Browser close method");
+		System.out.println("hello");
 		
 	}
 	
